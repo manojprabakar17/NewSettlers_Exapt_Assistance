@@ -1,0 +1,26 @@
+const sampleData = [
+    { id : 0 , Suburb : 'North Melbourne', distance: '4267' },
+    { id : 1 , Suburb : 'Williamstown North', distance: '6978' },
+    { id : 2 , Suburb : 'Burnley', distance: '6464' },
+    { id : 3 , Suburb : 'Princes Hill', distance: '15409' },
+    { id : 4 , Suburb : 'Bellfield', distance: '8859' },
+    { id : 5 , Suburb : 'Balaclava', distance: '7226' },
+    { id : 6 , Suburb : 'Travancore', distance: '10681' },
+    { id : 7 , Suburb : 'West Footscray', distance: '9171' },
+    { id : 8 , Suburb : 'Yarraville', distance: '14580' },
+    { id : 9 , Suburb : 'Aberfeldie', distance: '9141' },
+    { id : 10 , Suburb : 'Kingsville', distance: '21118' },
+    { id : 11 , Suburb : 'Blackburn', distance: '12000' },
+    { id : 12 , Suburb : 'Ripponlea	', distance: '9579' },
+    { id : 13 , Suburb : 'Flemington', distance: '7018' },
+    { id : 14 , Suburb : 'Niddrie', distance: '14628' },
+    { id : 15 , Suburb : 'Cremorne', distance: '5157' },
+    { id : 16 , Suburb : 'Collingwood', distance: '5335' },
+    { id : 17 , Suburb : 'Spotswood	', distance: '9883' },
+    { id : 18 , Suburb : 'Elwood', distance: '11477' },
+    { id : 19 , Suburb : 'Kensington', distance: '4815' },
+    { id : 20 , Suburb : 'Ivanhoe East	', distance: '14748' },
+    { id : 21 , Suburb : 'Seddon', distance: '7786' },
+  ];
+
+  export default sampleData;
